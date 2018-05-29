@@ -1,8 +1,8 @@
 # GD_Search
 
 
-Multiple Resource Search REST API using Python3 and Flask
-Fetches the results from "Google and Duckduckgo" search engines
+Multiple Resource Search REST API using Python3 and Flask which
+fetches the results from "Google and Duckduckgo" search engines.
 
 Dependecies:
 Run the "requirements.txt" file using "pip3 install -r requirments.txt"
