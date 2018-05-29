@@ -10,6 +10,6 @@ Run the "requirements.txt" file using "pip3 install -r requirments.txt"
 Check:
 curl “127.0.0.1:5000?q=github”
         or
-Open your favourite browser and enter 127.0.0.1:5000?q=the+dark+knight
+Open your favourite browser and enter 127.0.0.1:5000?q=github
 
 
